@@ -1,4 +1,4 @@
-# Manajemen Sistem Aplikasi Batik di Butik Puspa Berbasis Framework Codeigniter (sub modul:Pengelolaan Penjualan)
+# Manajemen Sistem Aplikasi Batik di Butik Puspa Berbasis Framework Codeigniter Dan SMS Gateway (sub modul:Pengelolaan Penjualan)
 This is example repository for educational purpose
 ## Pre Requisite
 * Windows Operating System
