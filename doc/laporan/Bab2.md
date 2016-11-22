@@ -1,7 +1,7 @@
 BAB II
 LANDASAN TEORI
 
-2.1	Sistem 
+2.1 Sistem 
 Menurut Nur Hasan (2009: 43) Pendekatan system yang lebih menekankan pada prosedur mendefinisikan system adalah suatu jaringan kerja dari prosedur – prosedur yang saling berhubungan, berkumpul bersama – sama untuk melakukan suatu kegiatan atau untuk menyelesaikan suatu sasaran yang tertentu. 
 
 2.2 Manajemen
@@ -15,12 +15,12 @@ Secara operasional manajemen dapat diartikan sebagai pelaksanaan fungsi-fungsi u
 Menurut Jhodi ( 2011:4) Pengelolaan adalah waktu yang digunakan untuk mengambarkan bentuk data menjadi manajemen yang memiliki kegunaan. Dalam pengertian tersebut maka dapat di simpulkan makan pengelolaan data adalah manipulasi dari data kedalam bentuk yang lebih berguna dan lebih berarti dari berupa suatu informasi. Semakin banyaknya data dan kompleknya aktifitas pengelolaan data dalam suatu perusahaan baik itu perusahaan kecil maupun besar sangat dibutuhkan.
 2.4 Butik Puspa
 (Company Profile Perusahaan) Butik Puspa merupakan salah satu pengrajin batik di daerah Jl. Jebres No. 62 Kota Solo Provinsi Jawa Tengah.Seni membatik adalah teknologi kuno yang hampir hilang di seni pembuatan kain itu sendiri. Berkembangnya di Indonesia sejak berabad silam, di tanah jawa batik berkembang menjadi ekspresi yang mengakar pada mitologi, filosofi, dan seputar siklus kehidupan. 
-2.5	Framework dan CMS
+2.5 Framework dan CMS
 Menurut Hakim (2010:8) Pemrograman kurang lebih adalah kumpulan kelas (class) dan fungsi (function,method) yang disusun secara sistematis berdasarkan kegunaan atau fungsionalitas tertentu untuk mempermudah pembuatan atau pengembangan suatu aplikasi. Sebagian besar framework yang beredar saat ini dibangun berdasarkan konsep Object-Oriented Programming(OOP). Beberapa contoh umum kelas yang disediakan framework adalah kelas session, kelas database, dan kelas email.
 Framework menawarkan penghematan waktu kerja dalam penulisan kode dan pengaturan berkas-berkas kode. Tidak perlu bersusah payah menuliskan kode program dari nol untuk fungsionalitas tertentu yang sudah disediakan. Berkas kode dapat disusun secara sistematis sesuai dengan struktur yang ditawarkan framework. [4]
-2.6	CodeIgniter
+2.6 CodeIgniter
 Menurut Basuki (2010:19) CI adalah framework pemrograman umum Web yang bisa dipakai untuk mengembangkan semua jenis aplikasi Web. Dikarenakan lebih ringan dan dilengkapi dengan mekanisme caching yang canggih, CI sangat cocok untuk pengembangan aplikasi dengan lalu lintas tinggi, seperti portal, forum, dll.
-2.7	Pengertian Persediaan
+2.7 Pengertian Persediaan
 
 Menurut Mulyadi (2001 : 431) dalam Mulyani mengatakan bahwa, ”Persediaan merupakan elemen aktiva yang disimpan untuk dijual dalam kegiatan bisnis yang normal atau barang-barang yang akan dikonsumsi dalam pengolahan produk yang akan dijual”.
 Pengertian persediaan adalah aktiva yang dimiliki oleh suatu perusahaan yang tersedia untuk dijual dalam kegiatan usaha normal, dalam proses produksi atau dalam perjalanan, dalam bentuk bahan baku atau keperluan untuk dipakai dalam proses produksi atau penyerahan jasa {Henry Simamora,2000:266 dalam Mudrichah, 2005}.
@@ -28,28 +28,26 @@ Menurut Luayi, 2013 mengatakan bahwa berdasarkan teori yang ada, persediaan baha
 Suatu pengendalian persediaan yang dijalankan oleh suatu perusahaan sudah tentu memiliki tujuan-tujuan tertentu. Pengendalian persediaan yang dijalankan adalah untuk menjaga persediaan pada tingkat yang optimal sehingga diperoleh penghematan-penghematan untuk persediaan tersebut. Dari pengertian tersebut, maka tujuan pengelolaan tersebut : 
 1. Untuk dapat memenuhi kebutuhan atau permintaan konsumen 
 2. Untuk menjaga agar perusahaan tidak mengalami kehabisan persediaan yang mengakibatkan terhentinya proses produksi, hal ini dikarenakan : 
-a. Kemungkinan barang (bahan baku dan penolong) menjadi langka sehingga sulit untuk diperoleh.
- 	b. Kemungkinan supplier terlambat mengirimkan barang yang dipesan
- 3. Untuk mempertahankan dan bila mungkin meningkatkan penjualan dan laba perusahaan.  
-  4. Menjaga supaya penyimpanan dalam emplacement tidak menumpuk, karena akan mengakibatkan biaya menjadi lebih besar. 
+   a. Kemungkinan barang (bahan baku dan penolong) menjadi langka sehingga sulit untuk diperoleh.
+   b. Kemungkinan supplier terlambat mengirimkan barang yang dipesan
+3. Untuk mempertahankan dan bila mungkin meningkatkan penjualan dan laba perusahaan.  
+4. Menjaga supaya penyimpanan dalam emplacement tidak menumpuk, karena akan mengakibatkan biaya menjadi lebih besar. 
 Dari beberapa tujuan pengendalian di atas maka dapat dipahami bahwa tujuan pengendalian persediaan adalah untuk menjamin terdapatnya persediaan sesuai kebutuhan. Ada dua macam kelompok bahan baku yaitu : 
 a. Bahan baku langsung (direct material), yaitu bahan yang membentuk dan merupakan bagian dari barang jadi yang biayanya dengan mudah bisa ditelusuri dari biaya barang jadi tersebut. 
 b. Bahan baku tak langsung (indirect material), yaitu bahan baku yang dipakai dalam proses produksi, tetapi sulit menelusuri biayanya pada setiap barang jadi.
 
-2.8	Jenis jenis Persediaan Bahan Baku
+2.8 Jenis jenis Persediaan Bahan Baku
 
 Menurut Zaki Baridwan (2000:150) jenis persediaan yang ada dalam
 perusahaan manufaktur adalah:
-1.	Persediaan bahan baku dan bahan penolong
+1. Persediaan bahan baku dan bahan penolong
 Bahan baku adalah barang-barang yang akan menjadi bagian dari produk jadi yang dengan mudah dapat diikuti biayanya, sedangkan bahan penolong adalah barang-barang yang juga menjadi bagian dari produk jadi tetapi jumlahnya kecil atau sulit diikuti biayanya.
-2.	Supplier pabri
+2. Supplier pabri
 Supplier pabrik adalah barang-barang yang mempunyai fungsi melancarkan proses produksi misalnya oli mesin, bahan pembersih mesin.
-3.	Barang dalam proses
+3. Barang dalam proses
 Barang dalam proses adalah barang-barang yang sedang dikerjakan (diproses) tetapi pada tanggal neraca barang-barang tadi belum selesai dikerjakan. Untuk dapat dijual masih diperlukan pengerjaan lebih lanjut.
-4.	Produk selesai
+4. Produk selesai
 Produk selesai adalah barang-barang yang sudah selesai dikerjakan dalam proses produksi dan menunggu saat penjualan.
-
-
 
 2.9	MySQL
 Menurut Raharjo (2011:21) MySQL adalah suatu sistem manajemen basis data relasional (RDBMS-Relational Database Management System) yang mamu bekerja dengan cepat, kokoh, dan mudah digunakan. Basis data memungkinkan untuk menyimpan, menelusuri, mengurutkan, dan mengambil data secara efisien. Bahasa yang digunakan  MySQL adalah SQL-standar bahasa basis data relasional diseluruh dunia saat ini.
